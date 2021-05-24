@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SmartOA</string>
+    <string name="app_name">MVPExample</string>
 
     <!-- 网络相关提示-->
     <string name="net_error">网络连接异常</string>

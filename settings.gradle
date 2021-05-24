@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "SmartOA"
+rootProject.name = "MVPExample"

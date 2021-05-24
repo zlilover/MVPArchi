@@ -11,7 +11,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.luding.smartoa"
+        applicationId "com.zli.mvpexample"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode appVersionCode
@@ -80,7 +80,7 @@ android {
                     if (name) {
                         fileNameBuilder.append('name').append('_')
                     }
-                    fileNameBuilder.append('LudingSmartOA').append('_')
+                    fileNameBuilder.append('mvpexample').append('_')
                     if (variant.flavorName) {
                         fileNameBuilder.append(variant.flavorName).append('_')
                     }
